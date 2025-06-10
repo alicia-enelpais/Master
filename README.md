@@ -4,6 +4,9 @@
 
 Welcome to the repository for my Master’s Thesis, which explores advanced techniques in clustering and forecasting of time series, specifically applied to the European electricity market. This repository contains the thesis document, code, and datasets needed to reproduce the results.
 
+![image](https://github.com/user-attachments/assets/be49d7a5-237f-4022-8578-6385881df2c3)
+
+
 ---
 
 ## Table of Contents
