@@ -156,7 +156,7 @@ All academic and technical references are listed in the thesis document.
 
 ## Contact
 
-**Author:** Alicia Burgos Carrascón  
+**Author:** Alicia Burgos
 **GitHub:** [alicia-enelpais](https://github.com/alicia-enelpais)  
 **University:** [URJC University/ Program: Ingeniería de Sistemas de Decisión]
 
